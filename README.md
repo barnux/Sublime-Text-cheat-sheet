@@ -16,3 +16,6 @@ This file contains the default settings. Every time Sublime Text is updated, thi
 ####Settings - User
 This is the file to modify in order to have permanent changes for the current user, like changing the default text size or the color scheme.
 *Shortcut on Mac OS:* ⌘,
+
+## Multiple cursors
+After having selected a variable or any other word, hitting ⌘D will highlight the next occurrence of that word and multiple cursors will be automatically activated, so the user can edit all the words at the same time.
