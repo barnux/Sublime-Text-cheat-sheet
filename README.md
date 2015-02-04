@@ -11,7 +11,7 @@ The **Sublime Text** (ST) editor [can be downloaded for free](http://www.sublime
 ## Initial setup
 
 ### Settings
-ST has no GUI when it comes to modify the program's settings, it's all done by modifying text files. By default, there are two entries under the **Preferences** menu: 
+ST has no GUI when it comes to modify the program's settings, it's all done by editing text files. By default, there are two entries under the **Preferences** menu: 
 *Settings - Default* and *Settings - User*.
 
 ####Settings - Default
@@ -19,7 +19,7 @@ This file contains the default settings. Every time ST is updated, this file wil
 
 ####Settings - User
 This is the file to modify in order to have permanent changes for the current user, like changing the default text size or the color scheme.
-*Shortcut on Mac OS:* ⌘,
+*Shortcut to open the user settings file:* ⌘, (Command + comma)
 
 ## Multiple cursors and selection
 
