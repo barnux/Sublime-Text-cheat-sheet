@@ -35,3 +35,4 @@ By holding down the **Alt** (Option) key, text can be selected in a vertical way
 
 ### Horizontal selection
 After a selection is made, **⌘L** will expand the selection to the entire line or paragraph of a text, while **^⌘L** will put a cursor at the end of each line or block of text if multiple lines are selected.
+
